@@ -244,7 +244,7 @@ main {
 .main_button_item i {
   font-size: 1.5em;
   vertical-align: middle; 
-  margin-right: 0.5em; /* Add space between icon and text */
+  margin-right: 0.5em;
 }
 
 /* Footer Codes */
