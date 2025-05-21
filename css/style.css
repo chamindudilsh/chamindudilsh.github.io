@@ -250,11 +250,17 @@ main {
 
 /* Footer Codes */
 footer {
+  background-color: #1c1c1c; /* This is the solid background color of your footer */
+  padding: 20px; /* Adjust padding as needed */
+
+  /* The magic for the fade effect */
   background-image: linear-gradient(
     to bottom,
-    transparent, /* Start fully transparent at the top */
-    #333 10% /* Fade to the footer's background color (e.g., #333) at 10% down */
+    transparent, /* Start fully transparent at the very top of the footer */
+    #1c1c1c /* Fade to the footer's solid background color */
   );
+
+  background-blend-mode: normal;
 }
 
 .footer_div_item {
