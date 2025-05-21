@@ -217,6 +217,10 @@ main {
 .main_small_a_item {
   margin-top: 1em;
   text-decoration: none;
+
+  flex-basis: auto; /* Allow them to grow/shrink based on content and available space */
+  flex-grow: 1; /* Allows them to grow to fill available space */
+  flex-shrink: 1;
 }
 
 .main_small_a_item + .main_small_a_item {
