@@ -103,7 +103,7 @@ body {
   font-size: 2em;
 }
 
-.header_text h2 {
+.header_text h3 {
   color: var(--description_color);
   font-size: 1.5em;
 }
