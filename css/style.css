@@ -129,8 +129,9 @@ body {
   margin-left: 1em;
 }
 
-.header_svg_item svg {
-  fill: var(--svg_color);
+.header_svg_item i {
+  color: white;
+  font-size: 2em;
 }
 
 /* Menu Codes */
@@ -204,6 +205,7 @@ main {
   border-radius: 1em;
   min-height: 3.7em;
   text-align: center;
+  vertical-align: middle;
   cursor: pointer;
 }
 
@@ -235,14 +237,15 @@ main {
   border-radius: 1em;
   min-height: 3.7em;
   text-align: center;
+  vertical-align: middle;
   cursor: pointer;
 }
 
-/* Font Awesome Icons*/
-
-[class^="fa-brands"] {
-  color: white;
-  font-size: 2em;
+.main_small_button_item i,
+.main_button_item i {
+  font-size: 1.5em;
+  vertical-align: middle; 
+  margin-right: 0.5em; /* Add space between icon and text */
 }
 
 /* Footer Codes */
