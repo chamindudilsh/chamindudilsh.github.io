@@ -198,6 +198,7 @@ main {
 }
 
 .main_button_item {
+  display: flex;
   color: var(--button_text_color);
   background-color: var(--button_background_color);
   width: 41em;
@@ -230,6 +231,7 @@ main {
 }
 
 .main_small_button_item {
+  display: flex;
   color: var(--button_text_color);
   background-color: var(--button_background_color);
   width: calc(41em / 2 - 5px);
