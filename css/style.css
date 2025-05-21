@@ -249,6 +249,13 @@ main {
 }
 
 /* Footer Codes */
+footer {
+  background-image: linear-gradient(
+    to bottom,
+    transparent, /* Start fully transparent at the top */
+    #333 10% /* Fade to the footer's background color (e.g., #333) at 10% down */
+  );
+}
 
 .footer_div_item {
   color: var(--footer_text_color);
