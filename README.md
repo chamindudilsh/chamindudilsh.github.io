@@ -1,17 +1,7 @@
-# Demo
+<h1 align="center"><b>Hi , I'm Chamindu Dilshan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Demo](https://ardacarofficial-links-website.pages.dev/readme.png 'Demo')](https://ardacarofficial-links-website.pages.dev/)
+This is the repository used for my website. U can see more info on my Github profile.
 
-
-# Install
-
-First, clone the file with the following command. Then apply the [component](https://github.com/ardacarofficial/links-website/wiki/Component-Settings "component") and [design](https://github.com/ardacarofficial/links-website/wiki/Design-Settings "design") settings. You can check the [wiki](https://github.com/ardacarofficial/links-website/wiki "wiki") for help.
-
-```sh
-git clone https://github.com/ardacarofficial/links-website.git
-```
-
-You can then upload your files to any hosting.
 
 # Note
 
